@@ -5,13 +5,25 @@
 > ### Channels: How do we reach our Customer Segments?, Identifying the routes via which you propose your product/service will be delivered to customers!
 
 - Business Proposal in response to a government  Request for Proposal (RFP) or Request for Quote (RFQ)
-
 > Whenever a government agency requires a specific service or a product, it issues a RFP or Request for Proposal or Request for Quote (RFQ). RFP is a public document that outlines the government's specific requirements that they will be looking for proposals. Based on the proposals received in response to the RFP the government agency would then decide to accept or decline the business proposals it has received. 
+
 - Government websites
+> Most of the public sector contracting authorities uses government’s electronic tendering platform to advertise new procurement opportunities.
+
 - Annual procurement plans:
 >  Government agency publishes their needs and requirements in the annual procurement plans. These plans provide information about the significant procurements over the next twelve months.
-- Pre-bid meetings and networking sessions 
-> Attend their pre-bid meetings and networking sessions to meet stakeholders
+
+- Networking:
+• Attend traditional tradeshows.
+• Attend agency events.
+• Attend pre-bid conferences.
+> Attend government agencies' pre-bid meetings and networking sessions to meet stakeholders, understand their strategic plan about its upcoming priorities and anticipate future business opportunities.
+
+
+– Call the office(s) listed and make an appointment:
+– Hiring an experienced government 'sales & marketing' executive: Have someone lead your government sales efforts who knows their way around your target agencies.
+
+
 
 
 > ### Customer Relationship: identifying the mechanisms you will use to Get, Keep and Grow Customers
