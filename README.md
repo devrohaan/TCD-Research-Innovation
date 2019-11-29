@@ -16,5 +16,61 @@
 
 > ### Customer Relationship: identifying the mechanisms you will use to Get, Keep and Grow Customers
 
--
+- Paid Demand Creation activities
+1. public relations agencies 
 
+
+put stories about our companies acheivements and features
+
+hiring PR agencies to create demand creation activities.
+
+2. Advertising
+(news paper, television, radio)
+
+Channel of advertising depends on the archetype/persona which is government organisation in our case.
+if they read blog or news paper or listen to radio
+
+3. Trade shows, Webinars, Email/Direct
+
+Search Engine marketing
+all these activities are fed to demand creation funnel
+
+get customer for physical channel
+
+1st step Earned + paid media to create awareness. 
+
+2nd Interest (people getting enagaged into your business)
+
+3rd Consideration
+
+Number of people the idea was shown and how many have actaully reached and engaged into the business
+
+4th Purchase 
+
+
+Viral loop: if its possible to create. But government can announe and get us popularity
+
+keep customer:
+
+Loyalty Programs : additional features for free of cost
+
+product upadtes: updates in the analytics 
+
+customer satisfaction:
+
+Grow customers:
+
+unbounding: Decomposing the product into separate pieces and having some base components to be sold free of cost
+
+UP-sell: having multiple of versions of the product to be sold with different features
+Cross-sell: one product dependent on another. and give them discont.. find products which are adjcent to each other and sell them with discounted price.
+
+Referrals: outer viral loop: discount for future purchases.
+
+customers are lot more expensive to acquire in the first part of the funnel than to keep
+
+Life time value:
+
+how much time will they spend with you and your company 
+
+life time value LTV > CAC customer aqusition 
