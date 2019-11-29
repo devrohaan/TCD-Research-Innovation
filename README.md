@@ -21,11 +21,8 @@
 > Attend government agencies' pre-bid meetings and networking sessions to meet stakeholders, understand their strategic plan about its upcoming priorities and anticipate future business opportunities. These events create new contracting opportunities or help a company to renew the contract that is going to expire.
 is going to expire.
 
-
-
 – Call the office(s) listed and make an appointment:
-– Hiring an experienced government 'sales & marketing' executive: Have someone lead your government sales efforts who knows their way around your target agencies.
-
+(XOXO)
 
 
 
@@ -33,6 +30,8 @@ is going to expire.
 - In Business to Government(B2G) sector, writing a winning business proposal and maintaining the sustainable business relationship, are  very difficult tasks as there is a lot of competition in the market.
 - Steve Blank’s customer relationship funnel; get, keep, grow provides model describes strategies and tactics for customer developement.
 - (IMG)
+
+
 **1. GET CUSTOMERS: Product awareness and customer acquisition**
 
 **2. KEEP CUSTOMERS: Retening exsting customers**
@@ -41,14 +40,56 @@ is going to expire.
 
 We have built a tactical plan of Geo-Atlas hypotheses in each GKG funnel category.
 
-Get customers part of the funnel has four stages in both physical as well as Web channel. The number of potential customer decreases as they pass through the tunnel from awareness to purchase stage.
-We have decided to employ demand creation activities mentioned below.
+**1. GET CUSTOMERS:**
+
+Get customers part of the funnel has four stages in both physical as well web channel. The number of potential customer decreases as they pass through the tunnel from awareness to purchase stage. As we have a highly critical customer segment (ie Government agencies) we have to make sure that our business proposal in reponse to RFP must reach and pass through the end of the Get customers funnel.
+
+Thus, We have decided to employ demand creation activities only in physical channel in order to acquire and activate our target customer archetype.
 
 - We have considered paid Content marketing strategies as our archetype (Government Agency) consumes information from blogs, news and tech journals. We have planned to hire PR agencies to create blogs about our services and our success stories. Government agencies evaluate the business proposals based on the bidding company's credibility in the market.
 Thus, to create awareness and to stand out in the market we have focused on below paid demand creation activities.
 
 - Our earned demand creation activities would highlight our highly effiecient sustainable urban planning approaches and will get the attention of our key customer archetypes.
 
+
+**2. KEEP CUSTOMERS:**
+
+Keep customers part of the funnel is about how the company will keep, or retain, customers. It’s always cheaper than the cost involved in Get customer part of the funnel, so is a very important part of this relationship cycle.
+
+- We are majorly focusing on loyalty programs as most of government RFPs have long term plans. If the government agencies are not given Reward points, or discounts on multi-year contracts, there would be a big risk of losing them to competition.
+
+- We are also planning to call or email goverment officials and end users to thank them for thier business and to get feedback on existing and new change requests.
+
+- contest and event
+
+- social media
+
+**3. GROW CUSTOMERS:**
+
+Customer relationship funnel states that it is a lot cheaper and easier to sell more to an existing customers than it is to acquire new customers.Grow customer part of the funnel defines the customer lifetime value. 
+
+Unbundling - Our Geo Atlas suite is comprised of multi-feature solutions that are capable of providing sustainable analysis to different urban planning sectors. Thus, we have planned to unbundle/decompose our entire suite into individual solutions. For instance -> water and electricity example. XOXO
+
+
+Cross sell - Geo Atlas solution has  sustainable urban planning ... adjacent products ... as we have unbundled... so we would encourage our customers to buy the adjacnet products ... like water then electiricty analysis.
+
+XOXO  write these:
+
+Up-selling — promote the purchase of “more” of higher-end products. The most commonly seen example of this is services/packages with a tiered price and feature lists.
+
+Next sell — concentrate on the next order: can the company encourage a long-term contact, sell additional products and possibly become the customers primary seller. These basic customer growth strategies work in consumer goods as well as business-to-business.
+
+
+
+Can I unbundle some of the packages? Unbundling meaning, can I somehow decompose the product into several pieces with different charging schemes. Most people just want the base product. Make use of this and put a premium on your premium features.
+Can I up-sell the product? This is based on understanding your customer archetype’s aspirations. Think about the quality and the features of a product and creating an up-sell strategy specific to your customers aspirations. How can you exceed their expectations?
+Can I cross sell my products? Are there any accessories or companion products that your customers are aware of?
+How can we get satisfied customers to refer us? This generates the outer viral loop. Happy customers are a great way to bring in new customers through word of mouth.
+
+
+## Viral Loop:
+
+> Viral Loop would be of great help if the government agencies could refer us internally to provide sustainable urban planning across different regions or cities.
 
 
 
@@ -91,3 +132,7 @@ Life time value:
 how much time will they spend with you and your company 
 
 life time value LTV > CAC customer aqusition 
+
+– Hiring an experienced government 'sales & marketing' executive: Have someone lead your government sales efforts who knows their way around your target agencies.
+
+
