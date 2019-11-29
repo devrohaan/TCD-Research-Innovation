@@ -18,7 +18,9 @@
 - Attend agency events.
 - Attend pre-bid conferences.
 - Education sessions through Webinars.
-> Attend government agencies' pre-bid meetings and networking sessions to meet stakeholders, understand their strategic plan about its upcoming priorities and anticipate future business opportunities.
+> Attend government agencies' pre-bid meetings and networking sessions to meet stakeholders, understand their strategic plan about its upcoming priorities and anticipate future business opportunities. These events create new contracting opportunities or help a company to renew the contract that is going to expire.
+is going to expire.
+
 
 
 – Call the office(s) listed and make an appointment:
@@ -28,7 +30,25 @@
 
 
 > ### Customer Relationship: identifying the mechanisms you will use to Get, Keep and Grow Customers
+- In Business to Government(B2G) sector, writing a winning business proposal and maintaining the sustainable business relationship, are  very difficult tasks as there is a lot of competition in the market.
+- Steve Blank’s customer relationship funnel; get, keep, grow provides model describes strategies and tactics for customer developement.
+- (IMG)
+**1. GET CUSTOMERS: Product awareness and customer acquisition**
 
+**2. KEEP CUSTOMERS: Retening exsting customers**
+
+**3. GROW CUSTOMERS: Gain more engagement in services and get referrals**
+
+We have built a tactical plan of Geo-Atlas hypotheses in each GKG funnel category.
+
+Get customers part of the funnel has four stages in both physical as well as Web channel. The number of potential customer decreases as they pass through the tunnel from awareness to purchase stage.
+We have decided to employ demand creation activities mentioned below.
+
+- We have considered paid Content marketing strategies as our archetype (Government Agencies) consumes information from blogs, news and tech journals. We have planned to hire PR agencies to create blogs about our services and our success stories. Government agencies evaluate the business 
+
+
+or  I’ll focus on customer relationship strategies, also known as the get, keep and grow (GKG) tactics of customer development.
+Steve Blank
 - Paid Demand Creation activities
 1. public relations agencies 
 
