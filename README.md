@@ -14,9 +14,10 @@
 >  Government agency publishes their needs and requirements in the annual procurement plans. These plans provide information about the significant procurements over the next twelve months.
 
 - Networking:
-• Attend traditional tradeshows.
-• Attend agency events.
-• Attend pre-bid conferences.
+- Attend traditional tradeshows.
+- Attend agency events.
+- Attend pre-bid conferences.
+- Education sessions through Webinars.
 > Attend government agencies' pre-bid meetings and networking sessions to meet stakeholders, understand their strategic plan about its upcoming priorities and anticipate future business opportunities.
 
 
