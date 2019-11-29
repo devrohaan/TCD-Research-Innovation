@@ -44,29 +44,13 @@ We have built a tactical plan of Geo-Atlas hypotheses in each GKG funnel categor
 Get customers part of the funnel has four stages in both physical as well as Web channel. The number of potential customer decreases as they pass through the tunnel from awareness to purchase stage.
 We have decided to employ demand creation activities mentioned below.
 
-- We have considered paid Content marketing strategies as our archetype (Government Agencies) consumes information from blogs, news and tech journals. We have planned to hire PR agencies to create blogs about our services and our success stories. Government agencies evaluate the business 
+- We have considered paid Content marketing strategies as our archetype (Government Agency) consumes information from blogs, news and tech journals. We have planned to hire PR agencies to create blogs about our services and our success stories. Government agencies evaluate the business proposals based on the bidding company's credibility in the market.
+Thus, to create awareness and to stand out in the market we have focused on below paid demand creation activities.
+
+- Our earned demand creation activities would highlight our highly effiecient sustainable urban planning approaches and will get the attention of our key customer archetypes.
 
 
-or  I’ll focus on customer relationship strategies, also known as the get, keep and grow (GKG) tactics of customer development.
-Steve Blank
-- Paid Demand Creation activities
-1. public relations agencies 
 
-
-put stories about our companies acheivements and features
-
-hiring PR agencies to create demand creation activities.
-
-2. Advertising
-(news paper, television, radio)
-
-Channel of advertising depends on the archetype/persona which is government organisation in our case.
-if they read blog or news paper or listen to radio
-
-3. Trade shows, Webinars, Email/Direct
-
-Search Engine marketing
-all these activities are fed to demand creation funnel
 
 get customer for physical channel
 
